@@ -1,0 +1,25 @@
+git
+agregar todos al comit git add --all
+cuando estan en verdes solo estan listo para agregarlo al repositorio
+atraves del commit
+--git commit -m "Inicializamos el proyecto"//se introduce un mensaje con lo que se supone que hace este commit
+todos los archivos se unene al commit
+--git status
+ya no hay ningun archivo pendiente 
+--git logz
+informacion de los commit que emos echo
+
+---git diff
+muestra modificaciones al archivo(especificamente)
+--git commit -a -m "comentario" guarda los cambios
+--git reset HEAD archivo 
+retrocede al paso anterior(aun no lo e probado
+
+en github creamos un nuevo repositorio copiamos su dreccion con
+git remote add origin https://github.com/Milton-Casta/Ejemplo.git
+git push -u origin master
+en consolo copiamos esto e introducimos nombre y contraseña
+
+
+
+
